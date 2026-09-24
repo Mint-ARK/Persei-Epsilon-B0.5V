@@ -15,6 +15,9 @@
 
 </div>
 
+> 📖 **Developer's Note / Behind the Scenes**:  
+> Curious about the story, motivations, and journey behind this project? Check out the author's blog post: [About LocalServer - MoriaRuRuka (Chinese)](https://moriaruruka.com/2026/09/24/411/).
+
 ---
 
 ## Module Scope
