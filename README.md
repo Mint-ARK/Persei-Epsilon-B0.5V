@@ -1,6 +1,8 @@
-# Persei-ε-B0.5V
+# 卷舌二 (Persei-ε-B0.5V)
 
 <div align="center">
+
+**简体中文** | [English](./README_EN.md)
 
 ![Frontend](https://img.shields.io/badge/Frontend-React%2019%20%7C%20TypeScript-61DAFB?style=flat-square&logo=react)
 ![Build Tool](https://img.shields.io/badge/Build-Vite-646CFF?style=flat-square&logo=vite)
